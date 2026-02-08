@@ -5,7 +5,7 @@ This video explains the folder structure, RPC workflow, and
 the validate_types() function used for server-side validation.
 
 🎥 Video Link:
-https://PASTE_YOUR_VIDEO_LINK_HERE
+https://drive.google.com/file/d/1z6p1zI4AMRtH0ywJ6bChhMBj38vhYcHh/view?usp=drive_link
 
 ## Topics Covered
 - StudentProfile data object
